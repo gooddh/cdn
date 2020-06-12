@@ -22,7 +22,7 @@ ul {
 /*媒体查询*/
 @media (max-width: 768px) { /*小屏*/
 	#main {
-		background: url(https://cdn.jsdelivr.net/gh/gooddh/cdn@1.1/img/Ps123.Net_0009.jpg) no-repeat;
+		background: url(https://api.dujin.org/bing/m.php) no-repeat;
 		background-attachment: fixed;
 		background-size: cover;
 	}
@@ -38,7 +38,7 @@ ul {
 
 @media (min-width: 768px) { /*大屏*/
 	#main {
-		background: url(https://cdn.jsdelivr.net/gh/MobiusBeta/assets@master/images/BG_A_Default_4.jpg) no-repeat;
+		background: url(https://api.dujin.org/bing/1920.php) no-repeat;
 		background-attachment: fixed;
 		background-size: cover;
 	}
